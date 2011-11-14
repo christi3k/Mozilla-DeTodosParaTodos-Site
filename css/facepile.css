@@ -1,0 +1,25 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, blockquote { margin: 0; padding: 0; border: 0; }
+.fan_box .full_widget {  background: none; border: none; position: relative;}
+.connect_action {padding:0px !important;}
+.connect_top {background: none !important; padding:0px !important;}
+.connect_top img {display: none}
+.connect_top .name_block {display:none}
+.connect_widget {font-family:Arial, sans-serif !important; position: absolute; top:0px; }
+.connect_widget_text {padding-top:4px !important}
+.connect_widget_text a {color:#f0efd1;}
+.connect_widget_vertical_center {padding:0px}
+.connect_button_container a {margin-top:4px; color: #cfba58 !important;}
+.connect_button_container a:hover {background-color: #f0efd1 !important}
+.connect_widget_interactive_area {margin-top:8px}
+.connect_widget_connected_text {color:#f0efd1 !important;}
+
+.fan_box .connections { font-family: Helvetica, Arial, sans-serif !important; border:none !important; padding:0px !important; color:#cfba58; text-align:right;}
+.fan_box .connections_grid {margin-top:40px; padding-top:8px !important; padding-bottom:22px}
+.fan_box .connections .total {position:absolute; top:12px; left:60px; line-height:20px; color:#f0efd1}
+.grid_item {float:left; position:relative; padding: 0 10px 10px 0px !important;}
+.grid_item a {float:left; color: #f0efd1 !important; line-height:13px !important; font-family: Arial, sans-serif !important; font-size: 11px !important;}
+.grid_item a:hover {text-decoration: none !important; color:#f0efd1 !important}
+.grid_item .name { color:#f0efd1 !important; font-size: 11px !important; padding:0px !important; width:50px; overflow:hidden;}
+.grid_item a:hover .name { color:#cfba58 !important }
+
+.fbConnectWidgetFooter {display: none}
