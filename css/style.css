@@ -475,6 +475,7 @@ li#tweet.hover {  background-position: -585px -327px; }
   display: none;
 }
 #banners p { font-size: 1.6em; }
+
 #banners ul
 {
   margin-top: 35px;
@@ -493,6 +494,14 @@ li#tweet.hover {  background-position: -585px -327px; }
   display: block;
   margin: 5px 0 0 -3px;
 }
+
+#banners_steps {
+	background: url('../img/bg_banners_steps.png') no-repeat top left;
+}
+#banners_steps li {
+
+}
+
 #view_more {
 	background: url('../img/icon_arrows_horizontal.png') no-repeat 30px 63px;
 	position: absolute;
